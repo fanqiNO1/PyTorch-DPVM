@@ -22,7 +22,7 @@ The prediction is:
 
 <img src="asserts/pred_color.png" width="480px">
 
-The image is from `marking_aliasing/Attic_Aliasing_l1_aliasing`. The ppd is 40 and the luminance is 110.
+The image is from `marking_aliasing/Attic_Aliasing_l1_aliasing`. The prediction is based on the viewing condition of luminance set as 110 cd/m^2 and pixel per degree (PPD) set as 40. This feature can helps provide image distortion visibility predictions adjusted by viewing conditions.
 
 
 ## Notes:
