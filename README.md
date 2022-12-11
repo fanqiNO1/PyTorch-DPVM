@@ -25,3 +25,15 @@ The image is from `marking_aliasing/Attic_Aliasing_l1_aliasing`. The ppd is 40 a
 
 ## Notes:
 We have implemented network architecture used in the paper. In the future, we will migrate the loss function from tensorflow to PyTorch. This can serve as a basic implementation of the paper and a footfold for future works.
+
+
+If you find any part of this code useful, please cite the paper.
+
+ 
+    @inproceedings{photometricnn2019,
+        title={Predicting visible image differences under varying display brightness and viewing distance},
+        author={N. Ye and K. Wolski and R. K. Mantiuk},
+        booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)}, 
+        year={2019}
+        keywords={Photometric visibility metric, Deep learning},  
+    }
