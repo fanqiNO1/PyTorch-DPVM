@@ -1,6 +1,6 @@
 # PyTorch Implementation of Deep Photometric Visibility Metric (DPVM)
 
-This is a PyTorch implementation of the [Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance](https://openaccess.thecvf.com/content_CVPR_2019/html/Ye_Predicting_Visible_Image_Differences_Under_Varying_Display_Brightness_and_Viewing_CVPR_2019_paper.html) in CVPR 2019
+This is a PyTorch implementation of the [Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance](https://openaccess.thecvf.com/content_CVPR_2019/html/Ye_Predicting_Visible_Image_Differences_Under_Varying_Display_Brightness_and_Viewing_CVPR_2019_paper.html) in CVPR 2019. The DPVM can be used as image quality metrics or be used for evaluating compressed image qualities.
 
 ## Code Usage:
 
