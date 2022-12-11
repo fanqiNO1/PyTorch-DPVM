@@ -8,9 +8,13 @@ The models are available [here](https://drive.google.com/file/d/1ikCXlb_QxytuZ32
 
 ## Sample Results:
 
-![label](asserts/label_color.png =480x)
+The label is:
 
-![pred](asserts/pred_color.png =480x)
+<img src="asserts/label_color.png" width="480px">
+
+And the prediction is:
+
+<img src="asserts/pred_color.png" width="480px">
 
 The image is from `marking_aliasing/Attic_Aliasing_l1_aliasing`. The ppd is 40 and the luminance is 110.
 
