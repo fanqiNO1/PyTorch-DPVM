@@ -26,7 +26,7 @@ The image is from `marking_aliasing/Attic_Aliasing_l1_aliasing`. The ppd is 40 a
 ## Notes:
 We have implemented network architecture used in the paper. In the future, we will migrate the loss function from tensorflow to PyTorch. This can serve as a basic implementation of the paper and a footfold for future works.
 
-
+## Citation:
 If you find any part of this code useful, please cite the paper.
 
  
