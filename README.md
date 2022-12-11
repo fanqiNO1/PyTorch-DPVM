@@ -8,11 +8,15 @@ The models are available [here](https://drive.google.com/file/d/1ikCXlb_QxytuZ32
 
 ## Sample Results:
 
-The label is:
+The reference image is:
 
-<img src="asserts/label_color.png" width="480px">
+<img src="asserts/ref.png" width="480px">
 
-And the prediction is:
+And the distorted image is:
+
+<img src="asserts/dis.png" width="480px">
+
+The prediction is:
 
 <img src="asserts/pred_color.png" width="480px">
 
