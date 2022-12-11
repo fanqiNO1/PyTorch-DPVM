@@ -6,7 +6,7 @@ This is a PyTorch implementation of the [Predicting Visible Image Differences Un
 
 `python example.py --ref reference.png --dist distorted.png --ppd 60 --lumin 110 --load_path path/to/model.pth --output output.png`
 
-The models are available [here](https://drive.google.com/file/d/1ikCXlb_QxytuZ32pU2aOOQsFY9aEOwP_/view?usp=share_link)
+The trained model weights are available [here](https://drive.google.com/file/d/1ikCXlb_QxytuZ32pU2aOOQsFY9aEOwP_/view?usp=share_link)
 
 ## Sample Results:
 
